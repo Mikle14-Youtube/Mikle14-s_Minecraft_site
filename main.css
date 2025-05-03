@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+.we__{
+font-size: 98px
+
+}
+
+ nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #3333339f;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+ }
+  nav a {
+            color: rgb(31, 23, 23);
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #526f9c;
+        }
+
+.iio{
+font-size:  1px;
+
+}
+ 
